@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_misiones">MisionesActivity</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="title_activity_extras">ExtrasActivity</string>
+    <string name="title_activity_ayuda">AyudaActivity</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="app_name">Botones</string>
+    <string name="welcome">Aplicación para SS.OO.</string>
+    <string name="Clasico">Clásico</string>
+    <string name="Contrarreloj">Contrarreloj</string>
+    <string name="Misiones">Misiones</string>
+    <string name="Opciones">Opciones</string>
+    <string name="Extras">Extras</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="RadioButton1">4 botones</string>
+    <string name="RadioButton2">8 botones</string>
+    <string name="RadioButton3">16 botones</string>
+    <string name="RadioButton4">30 segundos/10</string>
+    <string name="RadioButton5">1 minuto/50</string>
+    <string name="RadioButton6">2 minutos/100</string>
+    <string name="RadioButton7">Cuadrícula</string>
+    <string name="RadioButton8">Barras</string>
+    <string name="RadioButton9">Infinito/200</string>
+    <string name="RadioButton10">Clásico</string>
+    <string name="RadioButton11">Contrarreloj</string>
+    <string name="Borrar">Borrar records</string>
+    <string name="Tiempo">Tiempo</string>
+    <string name="Puntuacion">Puntuaciones</string>
+    <string name="Posicion">Posición</string>
+    <string name="TP">Tiempo/Pulsaciones</string>
+    <string name="Dificil">Difícil</string>
+    <string name="EpicMode">Modo Foto</string>
+    <string name="Musica">Música</string>
+    <string name="Imagen">Imagen</string>
+    <string name="Modo">Modo</string>
+    <string name="comojugar1">Como Jugar\nPulsa el botón que te indiquen.</string>
+    <string name="comojugar2">En clásico, tienes que pulsar los botones el máximo de veces que puedas dentro del tiempo.</string>
+    <string name="comojugar3">En Contrarreloj, tienes que pulsar los botones en el tiempo mínimo posible.</string>
+    <string name="comojugar4">Una app de Andrés Doncel Ramírez\nVersión 1.0</string>
+    <string name="m1">¡Tu primera misión! Fácil</string>
+    <string name="m2">La segunda misión. Comienza la épica aventura</string>
+    <string name="m3">Tercera misión. Tres treses</string>
+    <string name="m4">Cuarta misión. En espiral</string>
+    <string name="m5">Quinta misión. Cruz</string>
+    
+</resources>

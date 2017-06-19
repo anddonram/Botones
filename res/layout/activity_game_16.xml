@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <include layout="@layout/tiempo" />
+
+    <TableRow android:layout_weight="1" >
+
+        <include layout="@layout/merger0" />
+
+        <include layout="@layout/merger1" />
+    </TableRow>
+
+    <TableRow android:layout_weight="1" >
+
+        <include layout="@layout/merger2" />
+    </TableRow>
+
+    <TableRow android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/button9"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button10"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button11"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button12"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+    </TableRow>
+
+    <TableRow android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/button13"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button14"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button15"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button16"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="@color/material_blue_grey_800"
+            android:contentDescription="@string/welcome"
+            android:onClick="check_punt"
+            android:scaleType="fitCenter" />
+    </TableRow>
+
+</TableLayout>
